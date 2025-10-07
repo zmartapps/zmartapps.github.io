@@ -1,5 +1,5 @@
 <?php
-
+/*
 header ('Content-type: text/html; charset=utf-8');
 // or
 header ('Content-type: text/html; charset=iso8859-15');
@@ -13,7 +13,7 @@ header ('Content-type: text/html; charset=iso8859-15');
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
 header('Access-Control-Allow-Headers: Origin, Content-Type, Accept, Authorization, X-Request-With');
-
+*/
 echo "4444";
 
 ?>
